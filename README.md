@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <br />Author: Nitish Kumar
 ## Available Scripts
 
+<img src="FB.png" width=800>
+
 In the project directory, you can run:
 
 ### `npm start`
