@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-<br />Author: Nitish Kumar
-## Available Scripts
+<br />Author: Nitish Kumar<br />
 
-<img src="FB.png" width=800>
+<img src="FB.png" width=1000>
+## Available Scripts
 
 In the project directory, you can run:
 
